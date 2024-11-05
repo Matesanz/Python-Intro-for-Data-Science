@@ -1,4 +1,6 @@
 # ignore sensitive data
+mlartifacts/
+mlruns/
 data/
 
 # Byte-compiled / optimized / DLL files
